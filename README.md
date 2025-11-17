@@ -1,6 +1,6 @@
 Virtual Private Cloud (VPC)
-Name: POOJA S
-Register Number: 212223040146
+Name: Prathikshaa
+Register Number: 212224100043
 AIM
 To study the steps involved in setting up a private cloud using AWS or Microsoft Azure platforms and explore its core features and services.
 
